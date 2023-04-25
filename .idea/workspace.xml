@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fbde8e1-074c-46ad-99f9-05807e51cb6c" name="Changes" comment="feat: first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/Product.java" afterDir="false" />
+    <list default="true" id="2fbde8e1-074c-46ad-99f9-05807e51cb6c" name="Changes" comment="feat: adding the class diagram">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/ProductPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/ShoppingBag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/structural/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/structural/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/Content.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/structural/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +66,41 @@
       <option name="project" value="LOCAL" />
       <updated>1682381202428</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: adding the class diagram">
+      <created>1682385611361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682385611361</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: first commit" />
+    <MESSAGE value="feat: adding the class diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adding the class diagram" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/structural/Product.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

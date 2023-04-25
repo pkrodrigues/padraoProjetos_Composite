@@ -17,6 +17,6 @@ public class Product extends Content {
     }
 
     public String getContent() {
-        return "Descrição produto: " + getContent() + "valor: R$ " + getValue();
+        return "Descrição produto: " + getContent() + " valor: R$ " + getValue();
     }
 }

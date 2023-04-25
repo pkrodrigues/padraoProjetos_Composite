@@ -16,12 +16,12 @@ public class ProductPackage extends Content{
    }
 
    public String getContent(){
-       String exit = "";
-       exit = "Pacote de produtos: "+this.getContent() + "\n";
+       String exitf = "";
+       exitf = "Pacote de produtos: "+ this.getContent() + "\n";
        for(Content content : products){
-           exit += content.getContent();
+           exitf += content.getContent();
        }
-       return exit;
+       return exitf;
    }
 
 

@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fbde8e1-074c-46ad-99f9-05807e51cb6c" name="Changes" comment="feat: adding the class diagram">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/ProductPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/ShoppingBag.java" afterDir="false" />
+    <list default="true" id="2fbde8e1-074c-46ad-99f9-05807e51cb6c" name="Changes" comment="feat: adding the product, productPackage class">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ShoppingBagTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/structural/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/Content.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/structural/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/structural/ProductPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/ProductPackage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,23 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ShoppingBagTest.deveRetornarConteudoDaSacola" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compositerPatternd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShoppingBagTest" />
+      <option name="METHOD_NAME" value="deveRetornarConteudoDaSacola" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShoppingBagTest.deveRetornarConteudoDaSacola" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682385611361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: adding the product, productPackage class">
+      <created>1682388828022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682388828022</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,16 +113,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: first commit" />
     <MESSAGE value="feat: adding the class diagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adding the class diagram" />
+    <MESSAGE value="feat: adding the product, productPackage class" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adding the product, productPackage class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/designpattern/structural/Product.java</url>
           <line>19</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/structural/ProductPackage.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

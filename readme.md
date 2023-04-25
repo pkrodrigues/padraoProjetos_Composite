@@ -9,7 +9,8 @@ O Composite é um padrão de projeto estrutural que permite que você componha o
 
 
 #### 2.7.2 Exemplo abordado
-
+Como exemplo para desmonstração de implementação temos uma sacola de compras 
 
 
 #### 2.7.3 Diagrama de Classe do Exemplo
+![img.png](img.png)

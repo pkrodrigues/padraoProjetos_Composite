@@ -13,4 +13,4 @@ Como exemplo para desmonstração de implementação temos uma sacola de compras
 
 
 #### 2.7.3 Diagrama de Classe do Exemplo
-![img.png](img.png)
+![img_1.png](img_1.png)
